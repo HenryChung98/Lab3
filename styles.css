@@ -1,0 +1,11 @@
+body{
+  width: 800px;
+  margin: auto;
+  background-color: gray;
+  font-style: oblique;
+  text-align: center;
+}
+img{
+  width: 600px;
+  height: 500px;
+}
